@@ -9,3 +9,4 @@ C:\Users\David Bonilla\source\repos\TFB\TwistedFizzBuzz\obj\Debug\net8.0\Twisted
 C:\Users\David Bonilla\source\repos\TFB\TwistedFizzBuzz\obj\Debug\net8.0\refint\TwistedFizzBuzz.dll
 C:\Users\David Bonilla\source\repos\TFB\TwistedFizzBuzz\obj\Debug\net8.0\TwistedFizzBuzz.pdb
 C:\Users\David Bonilla\source\repos\TFB\TwistedFizzBuzz\obj\Debug\net8.0\ref\TwistedFizzBuzz.dll
+C:\Users\David Bonilla\source\repos\TFB\TwistedFizzBuzz\obj\Debug\net8.0\TwistedFizzBuzz.sourcelink.json

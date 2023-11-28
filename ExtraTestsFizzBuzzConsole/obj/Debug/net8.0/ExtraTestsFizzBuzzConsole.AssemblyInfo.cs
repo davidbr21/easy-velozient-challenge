@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExtraTestsFizzBuzzConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7169b35f2bb0199b02a135aec999f50c53470d7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExtraTestsFizzBuzzConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExtraTestsFizzBuzzConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

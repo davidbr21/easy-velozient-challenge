@@ -16,3 +16,5 @@ C:\Users\David Bonilla\source\repos\TFB\ExtraTestsFizzBuzzConsole\obj\Debug\net8
 C:\Users\David Bonilla\source\repos\TFB\ExtraTestsFizzBuzzConsole\obj\Debug\net8.0\ExtraTestsFizzBuzzConsole.pdb
 C:\Users\David Bonilla\source\repos\TFB\ExtraTestsFizzBuzzConsole\obj\Debug\net8.0\ExtraTestsFizzBuzzConsole.genruntimeconfig.cache
 C:\Users\David Bonilla\source\repos\TFB\ExtraTestsFizzBuzzConsole\obj\Debug\net8.0\ref\ExtraTestsFizzBuzzConsole.dll
+C:\Users\David Bonilla\source\repos\TFB\ExtraTestsFizzBuzzConsole\obj\Debug\net8.0\ExtraTestsFizzBuzzConsole.sourcelink.json
+C:\Users\David Bonilla\source\repos\TFB\ExtraTestsFizzBuzzConsole\bin\Debug\net8.0\Newtonsoft.Json.dll
