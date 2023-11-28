@@ -1,0 +1,11 @@
+C:\Users\David Bonilla\source\repos\TFB\TwistedFizzBuzz\bin\Debug\net8.0\TwistedFizzBuzz.deps.json
+C:\Users\David Bonilla\source\repos\TFB\TwistedFizzBuzz\bin\Debug\net8.0\TwistedFizzBuzz.dll
+C:\Users\David Bonilla\source\repos\TFB\TwistedFizzBuzz\bin\Debug\net8.0\TwistedFizzBuzz.pdb
+C:\Users\David Bonilla\source\repos\TFB\TwistedFizzBuzz\obj\Debug\net8.0\TwistedFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Bonilla\source\repos\TFB\TwistedFizzBuzz\obj\Debug\net8.0\TwistedFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\David Bonilla\source\repos\TFB\TwistedFizzBuzz\obj\Debug\net8.0\TwistedFizzBuzz.AssemblyInfo.cs
+C:\Users\David Bonilla\source\repos\TFB\TwistedFizzBuzz\obj\Debug\net8.0\TwistedFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\David Bonilla\source\repos\TFB\TwistedFizzBuzz\obj\Debug\net8.0\TwistedFizzBuzz.dll
+C:\Users\David Bonilla\source\repos\TFB\TwistedFizzBuzz\obj\Debug\net8.0\refint\TwistedFizzBuzz.dll
+C:\Users\David Bonilla\source\repos\TFB\TwistedFizzBuzz\obj\Debug\net8.0\TwistedFizzBuzz.pdb
+C:\Users\David Bonilla\source\repos\TFB\TwistedFizzBuzz\obj\Debug\net8.0\ref\TwistedFizzBuzz.dll
